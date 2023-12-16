@@ -1,0 +1,15 @@
+C:\Users\ASUS\PatikaDev\AtmApp\bin\Debug\net7.0\AtmApp.exe
+C:\Users\ASUS\PatikaDev\AtmApp\bin\Debug\net7.0\AtmApp.deps.json
+C:\Users\ASUS\PatikaDev\AtmApp\bin\Debug\net7.0\AtmApp.runtimeconfig.json
+C:\Users\ASUS\PatikaDev\AtmApp\bin\Debug\net7.0\AtmApp.dll
+C:\Users\ASUS\PatikaDev\AtmApp\bin\Debug\net7.0\AtmApp.pdb
+C:\Users\ASUS\PatikaDev\AtmApp\obj\Debug\net7.0\AtmApp.csproj.AssemblyReference.cache
+C:\Users\ASUS\PatikaDev\AtmApp\obj\Debug\net7.0\AtmApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\PatikaDev\AtmApp\obj\Debug\net7.0\AtmApp.AssemblyInfoInputs.cache
+C:\Users\ASUS\PatikaDev\AtmApp\obj\Debug\net7.0\AtmApp.AssemblyInfo.cs
+C:\Users\ASUS\PatikaDev\AtmApp\obj\Debug\net7.0\AtmApp.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\PatikaDev\AtmApp\obj\Debug\net7.0\AtmApp.dll
+C:\Users\ASUS\PatikaDev\AtmApp\obj\Debug\net7.0\refint\AtmApp.dll
+C:\Users\ASUS\PatikaDev\AtmApp\obj\Debug\net7.0\AtmApp.pdb
+C:\Users\ASUS\PatikaDev\AtmApp\obj\Debug\net7.0\AtmApp.genruntimeconfig.cache
+C:\Users\ASUS\PatikaDev\AtmApp\obj\Debug\net7.0\ref\AtmApp.dll
